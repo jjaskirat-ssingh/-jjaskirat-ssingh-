@@ -1,10 +1,9 @@
-## Hey, I'm Jaskirat  !
+## Hey, I'm <a href="https://jjaskirat-2e0c6.stackbit.app/">Jaskirat</a>  !
 
 <br>
 
-- 🔭 I’m currently working on: Django Web Framework
-- 🌱 I’m currently learning: Data Structures and Algorithms
-- 👯 I’m looking to collaborate on: Django projects
+- 🌱 I’m currently learning: Data Science, Machine Learning 
+- 👯 I’m looking to collaborate on: ML and Django Projects
 - 📫 Reach out: jjaskirat.ssingh@gmail.com
 - 😄 Pronouns: He/Him
 
